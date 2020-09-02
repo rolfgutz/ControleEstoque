@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\Administrador\\Desktop\\C# Youtube\\ControleEstoqueII.1\\ControleDeEstoque\\ControleDeEstoque.Web\\ControleDeEstoque.Web.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
